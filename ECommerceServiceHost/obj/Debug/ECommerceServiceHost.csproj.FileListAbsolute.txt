@@ -1,0 +1,39 @@
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe.config
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.pdb
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.pdb
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll.config
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.AssemblyReference.cache
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerc.19FE4943.Up2Date
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.exe
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.pdb
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\juank\juank\WCF-Projekt\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe.config
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.pdb
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.pdb
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll.config
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.CopyComplete
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.exe
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.pdb
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe.config
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.exe
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceHost.pdb
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.pdb
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\ECommerceServiceLibrary.dll.config
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.csproj.CopyComplete
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.exe
+C:\Users\emili\OneDrive\Pulpit\WCF EMILKA PROJEKT\ECommerceServiceLibrary\ECommerceServiceHost\obj\Debug\ECommerceServiceHost.pdb
